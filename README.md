@@ -15,6 +15,7 @@ Here are some ideas to get you started:
     
 <br />
 **About me**
+
 - Learner and AI Enthusiast
 
 <br/><br/>

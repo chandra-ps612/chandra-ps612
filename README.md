@@ -1,20 +1,20 @@
-### Hi there 👋
-    
-<br/>
+ **Hi there 👋, I'm Chandra Prakash Singh** 
+
+ 
+<br/><br/>                                                                        
 - Learner and AI Enthusiast
 - 💬 Ask me about: Image Processing, Classical Computer Vision, Computer Vision, and Deep Learning
 <br/><br/>
 
 
 **Contact Me**
-<br/>
+<br/><br/>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
-<br/>
+<br/><br/>
 
 
 **Technical Experience**
 <br/><br/>
-
 <code><img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>

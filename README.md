@@ -3,12 +3,14 @@
 <br/>
 - Learner and AI Enthusiast
 - 💬 Ask me about: Image Processing, Classical Computer Vision, Computer Vision, and Deep Learning
-<br/>
+<br/><br/>
+
 
 **Contact Me**
 <br/>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
 <br/>
+
 
 **Technical Experience**
 <br/><br/>

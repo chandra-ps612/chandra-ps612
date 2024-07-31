@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 **About me**
 
 - Learner and AI Enthusiast
+- 📫 How to reach me: singh.cp612@gmail.com
 
 <br/><br/>
 **Technical Skills**

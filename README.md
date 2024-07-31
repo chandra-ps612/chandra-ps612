@@ -1,31 +1,16 @@
 ### Hi there 👋
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->     
     
-<br />
-
+<br/>
 - Learner and AI Enthusiast
 - 💬 Ask me about: Image Processing, Classical Computer Vision, Computer Vision, and Deep Learning
-
-<br/><br/>
+<br/>
 
 **Contact Me**
 <br/>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
 <br/>
 
-**Technical Skills**
+**Technical Experience**
 <br/><br/>
 
 <code><img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
@@ -38,6 +23,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></code>
 <br/><br/>
 
 

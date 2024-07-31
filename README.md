@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about: Image Processing, Classical Computer Vision, Computer Vision, and Deep Learning
 
 <br/><br/>
+
+**Contact Me**
+<br/>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
+<br/>
+
 **Technical Skills**
 <br/><br/>
 
@@ -34,10 +40,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
 <br/><br/>
 
-**Contact Me**
-<br/>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
-<br/>
 
 #### Top Repositories
 

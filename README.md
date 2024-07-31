@@ -15,7 +15,6 @@ Here are some ideas to get you started:
     
 <br />
 
-**About me**
 - 💬 Ask me about: Image Processing, Classical Computer Vision, Computer Vision, and Deep Learning
 - Learner and AI Enthusiast
 - 📫 How to reach me: singh.cp612@gmail.com

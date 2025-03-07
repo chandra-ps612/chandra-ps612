@@ -21,8 +21,12 @@
 <code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></code>
 <code><img height="20" src="![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white)"></code>
+<code><img height="20" src="![OpenVINO](https://img.shields.io/badge/OpenVINO-%230A0FFF.svg?logo=openvino&logoColor=white)"></code>
+<code><img height="20" src="![TensorRT](https://img.shields.io/badge/TensorRT-%230A0FFF.svg?logo=nvidia&logoColor=white)"></code>
+<code><img height="20" src="![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-%230A0FFF.svg?logo=onnx&logoColor=white)"></code>
+<code><img height="20" src="![CUDA](https://img.shields.io/badge/CUDA-%230A0FFF.svg?logo=nvidia&logoColor=white)"></code>
+<code><img height="20" src="![FFmpeg](https://img.shields.io/badge/FFmpeg-%230A0FFF.svg?logo=ffmpeg&logoColor=white)"></code>
 <br/><br/>
-
 
 **Contact Me**
 <br/><br/>

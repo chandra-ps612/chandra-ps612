@@ -1,14 +1,12 @@
  **Hi there 👋, 
  I'm Chandra Prakash Singh** 
-
-
-<br /><br/>                                                                        
+                                                                      
 - SDE and AI-Researcher
 - 💬 Ask me about: Computer Vision, Deep Learning, and Image Processing
 <br/><br/>
 
 
-**Technical Experience**
+**Technical Expertise**
 <br/><br/> 
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>

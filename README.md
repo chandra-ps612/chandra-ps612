@@ -1,7 +1,7 @@
  **Hi there 👋, 
  I'm Chandra Prakash Singh** 
                                                                       
-- SDE and AI-Researcher
+- AI Developer & Researcher
 - 💬 Ask me about: Computer Vision, Deep Learning, and Image Processing
 <br/><br/>
 

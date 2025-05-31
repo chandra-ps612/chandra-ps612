@@ -13,6 +13,7 @@
 <code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=paddlepaddle&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenVINO-%230A0FFF.svg?logo=openvino&logoColor=white"></code>

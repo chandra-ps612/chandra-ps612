@@ -16,6 +16,8 @@
 <code><img height="20" src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=paddlepaddle&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MediaPipe-007ACC?style=for-the-badge&logo=mediapipe&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge&logo=detectron2&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenVINO-%230A0FFF.svg?logo=openvino&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TensorRT-000000.svg?logo=nvidia&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/ONNX_Runtime-%230A0FFF.svg?logo=onnx&logoColor=black"></code>

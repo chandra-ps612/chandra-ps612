@@ -1,5 +1,53 @@
-# Badges
+**Hi there 👋, 
+ I'm Chandra Prakash Singh** 
+                                                                          
+- AI Developer & Researcher
+- 💬 Ask me about: Computer Vision, Deep Learning, and Image Processing
+<br/><br/>
 
-![LoRA](https://img.shields.io/badge/LoRA-0798B9?style=for-the-badge&logo=google&logoColor=white)  
-<code><img height="20" src="https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=meta&logoColor=white"></code>  
-<code><img height="20" src="https://img.shields.io/badge/Optimum_Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
+
+**Technical Expertise**
+<br/><br/> 
+<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=paddlepaddle&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MediaPipe-007ACC?style=for-the-badge&logo=mediapipe&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Detectron2-1877F2?style=for-the-badge&logo=detectron2&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/OpenVINO-%230A0FFF.svg?logo=openvino&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/TensorRT-000000.svg?logo=nvidia&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/ONNX_Runtime-%230A0FFF.svg?logo=onnx&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></code>
+<code><img height="20" src="https://img.shields.io/badge/FFmpeg-%230A0FFF.svg?logo=ffmpeg&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/MLflow-FFBE00?style=for-the-badge&logo=MLflow&logoColor=blue"></code>
+<code><img height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></code>
+<br/><br/>
+
+**Contact Me**
+<br/><br/>
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://linkedin.com/in/chandra-prakash-singh-35912665)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.png" height="40em" align="center" alt="Follow @chandra_ps612 on Twitter" title="Follow @chandra_ps612 on Twitter"/>](https://twitter.com/chandra_ps612)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/github.png" height="40em" align="center" alt="Follow chandra-ps612 on GitHub" title="Follow chandra-ps612 on GitHub"/>](https://github.com/chandra-ps612)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/mail.png" height="40em" align="center" alt="Contact me via email" title="Contact me via email"/>](mailto:chandraprakashsingh2001@gmail.com)
+<br/><br/>
+
+
+#### Top Repositories
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=chandra-ps612&count_private=true&show_icons=true&theme=codeSTACKr&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-ps612&hide=Jupyter%20Notebook&theme=codeSTACKr">
+</p>
+
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-ps612&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
+</p> 
+<br />
+<br />

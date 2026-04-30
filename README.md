@@ -1,8 +1,13 @@
- **Hi there 👋, 
- I'm Chandra Prakash Singh** 
-                                                                      
+**Hi there 👋, 
+I'm Chandra Prakash Singh** 
+                                                                  
 - AI Developer & Researcher
-- 💬 Ask me about: Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Image Processing
+- 💬 Ask me about:
+  - Deep Learning
+  - Computer Vision
+  - Generative AI
+  - Multimodal AI
+  - Image Processing
 <br/><br/>
 
 
@@ -39,9 +44,8 @@
 
 **Contact Me**
 <br/><br/>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://www.linkedin.com/in/chandra-prakash-singh-35912665/)
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandr[...] 
 <br/><br/>
-
 
 #### Top Repositories
 

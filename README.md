@@ -41,9 +41,6 @@
 **Contact Me**
 <br/><br/>
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://linkedin.com/in/chandra-prakash-singh-35912665)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.png" height="40em" align="center" alt="Follow @chandra_ps612 on Twitter" title="Follow @chandra_ps612 on Twitter"/>](https://twitter.com/chandra_ps612)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/github.png" height="40em" align="center" alt="Follow chandra-ps612 on GitHub" title="Follow chandra-ps612 on GitHub"/>](https://github.com/chandra-ps612)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/mail.png" height="40em" align="center" alt="Contact me via email" title="Contact me via email"/>](mailto:chandraprakashsingh2001@gmail.com)
 <br/><br/>
 
 

@@ -1,8 +1,11 @@
 **Hi there 👋, 
  I'm Chandra Prakash Singh** 
                                                                           
-- AI Developer & Researcher
-- 💬 Ask me about: Computer Vision, Deep Learning, and Image Processing
+- AI R&D Engineer
+- 💬 Ask me about : Image Processing,                      Computer Vision,
+                    Deep Learning,
+                    Generative AI,
+                    Multimodal AI,
 <br/><br/>
 
 
@@ -28,6 +31,11 @@
 <code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MLflow-FFBE00?style=for-the-badge&logo=MLflow&logoColor=blue"></code>
 <code><img height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></code>
+![LoRA](https://img.shields.io/badge/LoRA-0798B9?style=for-the-badge&logo=google&logoColor=white)  
+<code><img height="20" src="https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=meta&logoColor=white"></code>  
+<code><img height="20" src="https://img.shields.io/badge/Optimum_Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white"></code>
+</code><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</code>
 <br/><br/>
 
 **Contact Me**

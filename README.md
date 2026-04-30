@@ -2,18 +2,21 @@
  I'm Chandra Prakash Singh** 
                                                                       
 - AI Developer & Researcher
-- 💬 Ask me about: Computer Vision, Deep Learning, and Image Processing
+- 💬 Ask me about: Deep Learning, Computer Vision, Generative AI, Multimodal AI, and Image Processing
 <br/><br/>
 
 
 **Technical Expertise**
 <br/><br/> 
 <code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
+<code><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</code>
 <code><img height="20" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=paddlepaddle&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=paddlepaddle&logoColor=white">
+</code>
 <code><img height="20" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MediaPipe-007ACC?style=for-the-badge&logo=mediapipe&logoColor=white"></code>
@@ -22,12 +25,16 @@
 <code><img height="20" src="https://img.shields.io/badge/TensorRT-000000.svg?logo=nvidia&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/ONNX_Runtime-%230A0FFF.svg?logo=onnx&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"></code>
-<code><img height="20" src="https://img.shields.io/badge/FFmpeg-%230A0FFF.svg?logo=ffmpeg&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/FFmpeg-%230A0FFF.svg?logo=ffmpeg&logoColor=white">
+</code>
 <code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MLflow-FFBE00?style=for-the-badge&logo=MLflow&logoColor=blue"></code>
-<code><img height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white">
+</code>
+<code><img src="https://img.shields.io/badge/LoRA-FF6F00?style=for-the-badge">
+</code>
 <br/><br/>
 
 **Contact Me**

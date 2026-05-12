@@ -1,13 +1,12 @@
-**Hi there 👋, 
- I'm Chandra Prakash Singh** 
-                                                                          
-- AI R&D Engineer
-- 💬 Ask me about : Image Processing,                      Computer Vision,
-                    Deep Learning,
-                    Generative AI,
-                    Multimodal AI,
-<br/><br/>
+<h1 align="center">Hi 👋, I'm Chandra Prakash Singh</h1>  
 
+**About Me** 🚀 
+- 🔬 AI R&D Engineer focused on real-world AI systems
+- 👁️ Specialized in Image Processing, Computer Vision, Deep Learning, Generative AI and Multimodal AI
+- ⚡ Interested in high-performance inference and deployment optimization
+- 🛠️ Building scalable AI pipelines from research to production
+- 💡 Passionate about solving practical problems using AI
+<br/><br/>
 
 **Technical Expertise**
 <br/><br/>

@@ -38,21 +38,51 @@
 <code><img height="20" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"></code>
 <br/><br/>
 
-**Contact Me**
-<br/><br/>
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow chandra-prakash-singh-35912665 on LinkedIn" title="Follow chandra-prakash-singh-35912665 on LinkedIn"/>](https://linkedin.com/in/chandra-prakash-singh-35912665)
-<br/><br/>
 
+## 🌐 Connect With Me
 
-#### Top Repositories
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=chandra-ps612&count_private=true&show_icons=true&theme=codeSTACKr&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-ps612&hide=Jupyter%20Notebook&theme=codeSTACKr">
+<p align="center">
+  <a href="https://linkedin.com/in/chandra-prakash-singh-35912665" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png"
+      height="45"
+      alt="LinkedIn"
+      title="Connect with Chandra Prakash Singh on LinkedIn"
+    />
+  </a>
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-ps612&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&line_height=0" />
-</p> 
-<br />
-<br />
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=chandra-ps612&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-ps612&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight&border_radius=12"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="600"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chandra-ps612&theme=tokyonight&border_radius=12"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=chandra-ps612&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
